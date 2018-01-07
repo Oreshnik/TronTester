@@ -12,7 +12,7 @@ Compile sources. Run Tester.class with params:
 </ul>
 
 As example: 
-<pre><code>java -Tester "java -cp C:\Documents\CodinGame\TheTron\out\ Player" "java -cp C:\Documents\CodinGame\TheTron\out\ PlayerOld" 4 100
+<pre><code>java Tester "java -cp C:\Documents\CodinGame\TheTron\out\ Player" "java -cp C:\Documents\CodinGame\TheTron\out\ PlayerOld" 4 100
 </code></pre>
 For this example 400 games will be played (100 * 4), where new version of your bot will compete with 3 copy of old version, using all four generated start positions in each game.
 
