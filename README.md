@@ -2,7 +2,7 @@ This is a Java tool for testing bots for CodinGame multiplayer <a href="https://
 
 When I was programming the bot for this game I noticed that there are some generated games where it is not possible to win. So, for more precise testing this program tests one game with all generated start positions for the testing version.
 
-<h3>How does it works?</h3>
+<h3>How does it work?</h3>
 Compile sources. Run Tester.class with params:
 <ul>
 <li>Command line to start a new version of your bot process 
